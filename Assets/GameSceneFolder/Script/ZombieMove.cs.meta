@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 019538a877a19624691ed85614ecce23
+timeCreated: 1439420048
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - WayPoint2: {instanceID: 0}
+  - z_ani: {fileID: 11118608, guid: 41ece9f0f9bbed548952b5399399d2e5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
